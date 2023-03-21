@@ -5,3 +5,7 @@ colors
 vibrant
 darkmood 
 video
+
+payment option
+send money
+receive money
